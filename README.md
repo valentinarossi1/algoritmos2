@@ -1,4 +1,4 @@
-# Algoritmos y Estructuras de Datos - FIUBA (Cátedra Buchwald)
+# Algoritmos y Estructuras de Datos - FIUBA (Cátedra Buchwald 2C2024)
 
 Repositorio con los TDAs y TPs desarrollados en la materia.
 
