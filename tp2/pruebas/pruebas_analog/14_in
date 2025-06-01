@@ -1,0 +1,4 @@
+agregar_archivo test08.log
+agregar_archivo test09.log
+ver_visitantes 0.0.0.0 255.255.255.255
+ver_mas_visitados 10
